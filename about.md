@@ -1,13 +1,16 @@
 ---
 layout: page
-title: About
+title: Über Uns
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+Wir sind ein junges und motiviertes Team und arbeiten bereits
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+Unsere Firma wurde im Jahre 2010 von Bogdan Roszak gegründet.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Momentan beschäftigen wir 100 fachkundige Mitarbeiter, darunter einen Meister. 
+
+Wir erledigen sämtliche Arbeiten von der Fliesenverlegung und Trockenbau bis hin zu Sanierungsarbeiten.
+
+Wir arbeiten sauber, kreativ, zuverlässig und dies zu günstigen Preisen. Wir besitzen ein gesundes Maß an Flexibilität, welche uns und Ihnen den Erfolg garantiert.
+
