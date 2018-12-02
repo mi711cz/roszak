@@ -7,7 +7,7 @@ mathjax: true
 
 # Unsere Leistungen
 
-Wir sind Ihr fachlich kompetenter und freundlicher Fliesen-, Platten-, und Mosaikleger aus Stuttgart. Mit langjähriger Erfahrung bieten wir Ihnen hohe handwerkliche Qualität, wertvolle Materialien sowie faire Preise. Wir setzen Ihre Anforderungen mit modernsten Fertigungsmethoden ganz nach Ihren Wünschen um.
+Wir sind Ihr fachlich kompetenter und freundlicher Fliesen-, Platten-, und Mosaikleger aus Geldern Walbeck. Mit langjähriger Erfahrung bieten wir Ihnen hohe handwerkliche Qualität, wertvolle Materialien sowie faire Preise. Wir setzen Ihre Anforderungen mit modernsten Fertigungsmethoden ganz nach Ihren Wünschen um.
 
  
 + Verlegung von Fliesen, Platten und Mosaik
