@@ -16,10 +16,10 @@ Wir sind Ihr fachlich kompetenter und freundlicher Fliesen-, Platten-, und Mosai
 + Altbaurenovierung
 + Balkonsanierung
 + Reparaturarbeiten
-+ Estricharbeiten
-+ Betonsanierung
 + Putzarbeiten
 + Maurerarbeiten
 + Trockenbauwände
-+ Einbau von Elektro- / Fußbodenheizungen
 + Reperatur-Notdienst in Folge von Wasserschaden
++ Malerarbeiten und Wärmedämmung / Vollwärmeschutz
++ Fasadenrenovierung
++ Hof- und Garageneinfahrten / Pflasterarbeiten
