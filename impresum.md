@@ -7,7 +7,7 @@ permalink: /impresum/
 # Impressum
 Angaben gemäß § 5 TMG:
 
-ROSZAK GbR
+Einzelunternehmen ROSZAK
 
 Bogdan Roszak
 
@@ -23,30 +23,19 @@ E-Mail:	[bogdan.roszak13@gmail.com](mailto:{{site.email}})
 
 Web:	[http://www.roszak-fliesen-trockenbau.de](http://www.roszak-fliesen-trockenbau.de)
 
-### Registereintrag:
-Eintragung im Handelsregister.
-
-Registergericht: Geldern Walbeck
-
-Registernummer: 113/5144/2364
-
 
 ### Umsatzsteuer-ID:
 
 Umsatzsteuer-Identifikationsnummer gem. § 27a UStG: DE 95321678428
 
-### Wirtschafts-ID:
-
-Wirtschafts-Identifikationsnummer: Muster-ID456
 
 
-
-# Disclaimer - rechtliche Hinweise
-### Auskunfts- und Widerrufsrecht
+#Disclaimer - rechtliche Hinweise
+###Auskunfts- und Widerrufsrecht
 
 Sie haben jederzeit das Recht, sich unentgeltlich und unverzüglich über die zu Ihrer Person erhobenen Daten zu erkundigen. Ebenfalls können Sie Ihre Zustimmung zur Verwendung Ihrer angegebenen persönlichen Daten mit Wirkung für die Zukunft widerrufen. Hierfür wenden Sie sich bitte an den im Impressum angegebenen Diensteanbieter.
 
-### Datenschutz (allgemein)
+###Datenschutz (allgemein)
 
 Beim Zugriff auf unsere Webseite werden automatisch allgemeine Informationen (sog. Server-Logfiles) erfasst. Diese beinhalten u.a. den von Ihnen verwendeten Webbrowser sowie Ihr Betriebssystem und Ihren Internet Service Provider. Diese Daten lassen keinerlei Rückschlüsse auf Ihre Person zu und werden von uns statistisch ausgewertet, um unseren Internetauftritt technisch und inhaltlich zu verbessern. Das Erfassen dieser Informationen ist notwendig, um den Inhalt der Webseite korrekt ausliefern zu können.
 
@@ -62,7 +51,7 @@ Die Anbieter und alle auf dieser Website genannten Dritten behalten sich ausdrü
 
  
 
-### Disclaimer (Haftungsausschluss)
+###Disclaimer (Haftungsausschluss)
 
 * Haftung für Inhalte
 
