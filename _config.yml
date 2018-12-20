@@ -5,7 +5,7 @@ description: > # Meta description of Homepage
   Roszak Fliesen & Trockenbau der Beste der Besten Trockenbauer.
 baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "https://mczochara.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "http://roszak-fliesen-trockenbau.de"
+url: "https://roszak-fliesen-trockenbau.de"
 
 # SEO PLUGIN
 #social:
