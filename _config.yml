@@ -4,7 +4,7 @@ author: mczochar # You :P
 description: > # Meta description of Homepage
   Roszak Fliesen & Trockenbau der Beste der Besten Trockenbauer.
 baseurl: "/roszak" # the subpath of your site, e.g. /blog
-url: "http://mczochara.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mczochara.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 #social:
