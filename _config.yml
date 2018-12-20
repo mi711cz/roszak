@@ -18,7 +18,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Über Uns', link: '/about'}
   - {name: 'Kontakt', link: '/contact'}
-  - {name: 'Impresum', link: '/impresum'}
+  - {name: 'Impressum', link: '/impressum'}
 
 tagline: >
   Ihr freundlicher und professioneller Partner rund um Fliesen und Trockenbau
