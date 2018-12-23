@@ -5,7 +5,7 @@ featured-img: trockenb2
 mathjax: true
 ---
 
-# Unsere Referenzen
+# Unsere Referenzen, aktuelle und bisherige Projekte.
 
 ![alt text](https://roszak-fliesen-trockenbau.de/assets/img/posts/sleek_sm.jpg "Bad_1")
 
