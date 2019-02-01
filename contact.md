@@ -14,6 +14,7 @@ Bogdan Roszak
 Bergsteg 52a
 
 47608 Geldern Walbeck
+
 Telefon:	+49 173 / 585 74 12
 
 Telefax:	+49 283 / 112 139 74
