@@ -23,11 +23,3 @@ E-Mail:	[bogdan.roszak13@gmail.com](mailto:{{site.email}})
 
 Web:	[https://www.roszak-fliesen-trockenbau.de](https://www.roszak-fliesen-trockenbau.de)
 
-
-# Kontaktformular
-
-{% include form.html %}
-
-{% include modal.html %}
-
-
