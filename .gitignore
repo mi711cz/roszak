@@ -29,6 +29,7 @@ Thumbs.db
 ##########
 _site/
 .jekyll-metadata
+.jekyll-cache
 
 # Ruby #
 ########
